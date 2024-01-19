@@ -12,7 +12,7 @@
 - var
 - let
 - const
-- Estructucturas de control: __if - else__.
+- Estructucturas de control: __if - else__  - __else if anidados__.
 - Ciclos repetitivos: __while__, __do while__, __for__.
 
 ## Unidad 2 (consta de dos partes): 
