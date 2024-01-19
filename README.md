@@ -1,5 +1,5 @@
 
-# Ejercicios Prácticos básicos en JavaScript para aprender y mejorar la lógica de programación en leguaje Javascript.
+# Ejercicios Prácticos básicos en JavaScript para aprender y mejorar la lógica de programación en lenguaje Javascript.
 
 ## Consta de dos unidades:
 
